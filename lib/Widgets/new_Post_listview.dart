@@ -1,6 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:newss/models/article_model.dart';
+
 import 'news_Post.dart';
 
 class NewPostListview extends StatelessWidget {
